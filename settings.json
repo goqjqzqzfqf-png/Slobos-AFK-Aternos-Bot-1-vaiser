@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VaiserMc.aternos.me:41419",
+    "ip": "VaiserMc.aternos.me",
     "port": 41419,
     "version": "",
     "try-creative": false
